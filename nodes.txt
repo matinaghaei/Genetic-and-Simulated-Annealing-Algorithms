@@ -1,0 +1,31 @@
+0 -> West Azerbaijan
+1 -> East Azerbaijan
+2 -> Ardabil
+3 -> Kurdistan
+4 -> Zanjan
+5 -> Gilan
+6 -> Kermanshah
+7 -> Hamedan
+8 -> Qazvin
+9 -> Alborz
+10 -> Mazandaran
+11 -> Ilam
+12 -> Lorestan
+13 -> Markazi
+14 -> Qom
+15 -> Tehran
+16 -> Golestan
+17 -> Khuzestan
+18 -> Chaharmahal and Bakhtiari
+19 -> Isfahan
+20 -> Semnan
+21 -> North Khorasan
+22 -> Kohgiluyeh and Boyer-Ahmad
+23 -> Bushehr
+24 -> Fars
+25 -> Yazd
+26 -> South Khorasan
+27 -> Razavi Khorasan
+28 -> Hormozgan
+29 -> Kerman
+30 -> Sistan and Baluchestan
